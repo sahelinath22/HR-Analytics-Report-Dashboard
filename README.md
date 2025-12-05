@@ -141,6 +141,8 @@ This helps HR identify roles with high/low satisfaction and plan retention strat
 
 (The preview image is included in the repository)
 
+<img src="https://github.com/sahelinath22/HR-Analytics-Report-Dashboard/blob/60ed75bda563cc39cb234e010294687e645a9c41/HR%20Analytics%20Report%20Dashboard.png" alt="Image Description" width="600">
+
 📌 **How to Use This Project**
 
 ✅Download the .twbx Tableau file from the repository.
